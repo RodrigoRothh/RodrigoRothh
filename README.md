@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RodrigoRothh
-- 👀 I’m interested learning
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
